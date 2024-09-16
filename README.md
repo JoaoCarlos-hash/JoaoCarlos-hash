@@ -10,4 +10,7 @@ meu nome é JOÃO CARLOS
 @JOAOCARLOS-HASH
 
 
-https://media.tenor.com/0GRl16naN8YAAAAi/pokemon-nintendo.gif
+
+
+![](https://media.tenor.com/0GRl16naN8YAAAAi/pokemon-nintendo.gif)
+
