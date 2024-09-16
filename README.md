@@ -12,5 +12,5 @@ meu nome é JOÃO CARLOS
 
 
 
-![](https://media.tenor.com/0GRl16naN8YAAAAi/pokemon-nintendo.gif)
+![](https://media1.tenor.com/m/NILJDXtkOCMAAAAC/ichigo-kurosaki.gif)
 
