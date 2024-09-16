@@ -1,16 +1,13 @@
-## Hi there 👋
+####boas vindas ao meu perfil
 
-<!--
-**JoaoCarlos-hash/JoaoCarlos-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é JOÃO CARLOS
 
-Here are some ideas to get you started:
+  -Estou estudando na [alura](https://WWW.alura.com.br)
+-Estou me desenvolvendo na linguagem javaScript
+-Utilizo esse espaco para minha organização e compartilmento dos meu projeto desenvolvidos
+00001087967806sp@al.educacao.sp.gov.br
+### Voce entar em cantato comigo
+@JOAOCARLOS-HASH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+https://media.tenor.com/0GRl16naN8YAAAAi/pokemon-nintendo.gif
