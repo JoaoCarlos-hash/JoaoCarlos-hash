@@ -12,5 +12,5 @@ meu nome é JOÃO CARLOS
 
 
 
-![](https://media1.tenor.com/m/NILJDXtkOCMAAAAC/ichigo-kurosaki.gif)
+![](https://media1.tenor.com/m/QifzTv3pRLkAAAAC/dmc5.gif)
 
