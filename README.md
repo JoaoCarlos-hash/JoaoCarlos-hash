@@ -6,7 +6,7 @@ meu nome é JOÃO CARLOS
 -Estou me desenvolvendo na linguagem javaScript
 -Utilizo esse espaco para minha organização e compartilmento dos meu projeto desenvolvidos
 00001087967806sp@al.educacao.sp.gov.br
-### Voce entar em cantato comigo
+### Voce entrar em cantato comigo
 @JOAOCARLOS-HASH
 
 
